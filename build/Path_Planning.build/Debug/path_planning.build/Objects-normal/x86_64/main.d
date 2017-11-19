@@ -175,4 +175,5 @@ dependencies: \
   /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/FullPivHouseholderQR.h \
   /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/ColPivHouseholderQR.h \
   /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/Eigen-3.3/Eigen/src/QR/CompleteOrthogonalDecomposition.h \
-  /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/json.hpp
+  /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/json.hpp \
+  /Users/sanchezp/Personal/CarND/CarND-Path-Planning-Project/src/spline.h
